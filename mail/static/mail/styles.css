@@ -1,0 +1,27 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.mail:hover {
+    cursor: pointer;
+    background-color: grey;
+}
+
+.read-mail {
+    background-color: grey;
+}
+
+.read-mail:hover {
+    cursor: pointer;
+    background-color: white
+}
+
+.unread-mail {
+    background-color: white;
+}
